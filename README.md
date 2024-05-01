@@ -32,7 +32,7 @@ O desafio constiste em:
 ### Link
 
 - Código do desenvolvimento: [NFT Card](https://github.com/maiarasteffen/nft-card-front)
-- Front do projeto: [Front]()
+- Front do projeto: [Front](https://keen-buttercream-7e2574.netlify.app/)
 
 ## Meu processo
 
